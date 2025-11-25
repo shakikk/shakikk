@@ -22,8 +22,6 @@ I enjoy building practical, reliable applications and writing clean, maintainabl
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
-  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" />
 </p>
 
 ### **Tools**
